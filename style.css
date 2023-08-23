@@ -140,7 +140,7 @@ project{
     height: 42vh;
     font-size: 2em;
     text-align: center;
-    margin: 9vh 5vw 3vh 5vw;
+    margin: 9vh 0 3vh 0;
     padding: 2vh;
     border: 2px solid white;
     display: inline-block;
